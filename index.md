@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-![](IMAG_4333.jpg)
+![](IMG_4333.jpg)
 
 # Charles (Charlie) Labuzzetta
 
