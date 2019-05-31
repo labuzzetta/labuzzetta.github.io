@@ -1,5 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
-avatar: 9397686.jpeg
 
 permalink: pretty
 exclude: ["README.md"]
