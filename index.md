@@ -31,3 +31,5 @@ Acknowledgements
 
 * [Center for Survey Statistics and Methodology](https://www.cssm.iastate.edu/)
 * [DataFEWSion Traineeship Program](https://www.imse.iastate.edu/datafewsion/)
+
+![](IMG_4333.JPG)
