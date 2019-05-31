@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 logo: 9397686.jpeg
+
+docs_list_title: Projects
+docs:
+
+- title: Project 1
+  url: test.md
