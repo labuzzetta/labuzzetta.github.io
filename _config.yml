@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 logo: 9397686.jpeg
-group: navigation
+
+permalink: pretty
+exclude: ["README.md"]
