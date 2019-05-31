@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.16.4"
+remote_theme: poole/hyde
 
 permalink: pretty
 exclude: ["README.md"]
