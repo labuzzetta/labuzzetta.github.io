@@ -15,7 +15,5 @@ Research Interests
 Education
 ---------
 
-* **PhD in Statistics, 2022**
-  Iowa State University
-* **BS in Mathematics, 2017**
-  Iowa State University
+* **PhD in Statistics**, Iowa State University 2022
+* **BS in Mathematics**, Iowa State University 2017
