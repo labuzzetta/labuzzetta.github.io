@@ -11,3 +11,11 @@ Research Interests
 * Deep learning
 * Landcover classification
 * Best management practices for water pollution
+
+Education
+---------
+
+* **PhD in Statistics, 2022**
+  Iowa State University
+* **BS in Mathematics, 2017**
+  Iowa State University
