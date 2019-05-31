@@ -7,8 +7,6 @@ permalink: /
 
 # Charles (Charlie) Labuzzetta
 
-![](IMG_4333.JPG)
-
 I am a PhD co-major student in statistics and environmental science at Iowa State University. My co-advisors are Dr. Zhengyuan Zhu (Department of Statistics) and Yuyu Zhou (Department of Geological and Atmospheric Sciences).
 
 I recieve support from the Center for Survey Statistics and Methodology (CSSM) for my work as a research assistant and from the NSF DataFEWSion Traineeship program.
