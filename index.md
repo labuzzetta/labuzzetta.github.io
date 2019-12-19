@@ -23,9 +23,9 @@ Research Interests
 Education
 ---------
 
-* **PhD Statistics and Environmental Science**, Iowa State Uni. 2022
-* **MS Statistics**, Iowa State Uni. 2019
-* **BS Mathematics**, Iowa State Uni. 2017
+* **PhD Statistics and Environmental Science**, Iowa State Uni. '22
+* **MS Statistics**, Iowa State Uni. '19
+* **BS Mathematics**, Iowa State Uni. '17
 
 Acknowledgements
 ----------------
