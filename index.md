@@ -15,10 +15,11 @@ Research Interests
 ------------------
 
 * Satellite image analysis
-* Bayesian methods for spatial data
 * Deep learning
+* Conformal prediction
 * Landcover classification
-* Best management practices for water pollution
+* Soil and water conservation
+* Food, Energy, Water Systems (FEWS) analysis
 
 Education
 ---------
