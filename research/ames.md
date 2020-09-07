@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualizing Urbanization: Ames
+title: Visualizing Urbanization in Ames
 nav_order: 3
 permalink: /research/ames
 ---
