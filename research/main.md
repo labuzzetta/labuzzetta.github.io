@@ -16,5 +16,6 @@ Publications
 
 Thesis + Dissertation
 ----------
-* [Spatiotemporal refinement of water classification via random forest classifiers and gap-fill imputation in LANDSAT imagery](https://lib.dr.iastate.edu/creativecomponents/456/)
+* [Fall 2019 - Master's Thesis](https://lib.dr.iastate.edu/creativecomponents/456/)
+  Spatiotemporal refinement of water classification via random forest classifiers and gap-fill imputation in LANDSAT imagery
 
