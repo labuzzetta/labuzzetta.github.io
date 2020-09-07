@@ -7,7 +7,9 @@ permalink: /research/main
 
 Blog Posts
 ----------
-* [9/7/2020 - Google Earth Timelapse](http://labuzzetta.github.io/research/google_earth)
+* [9/7/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
+* [9/8/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
+* [9/9/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
 
 Publications
 ----------
