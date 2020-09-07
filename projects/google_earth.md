@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Google Earth
-nav_order: 2
+nav_order: 3
 permalink: /projects/google_earth
 ---
 
