@@ -9,4 +9,4 @@ Statistics
 ----------
 
 * [Spatiotemporal refinement of water classification via random forest classifiers and gap-fill imputation in LANDSAT imagery](https://lib.dr.iastate.edu/creativecomponents/456/)
-* [Google Earth Timelapse](http://labuzzetta.github.io/projects/google_earth)
+* [Google Earth Timelapse](http://labuzzetta.github.io/research/google_earth)
