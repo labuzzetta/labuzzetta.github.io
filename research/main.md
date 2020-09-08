@@ -13,7 +13,7 @@ Blog Posts
 
 Publications
 ----------
-* [8/29/2016 - Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i421/2450760)
+* [8/29/2016 - Oxford Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i421/2450760)
   
   "Complementary feature selection from alternative splicing events and gene expression for phenotype prediction"
 
