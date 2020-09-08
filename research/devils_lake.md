@@ -12,3 +12,4 @@ A Devilish Flood
 
 Gathering LANDSAT satellite imagery via [Google Earth Engine](https://earthengine.google.com) (GEE) allows me to process large amounts of data to summarize via statistics. In the timelapse above, the dramatic growth of Devil's Lake in North Dakota can be seen as it draws closer to the small town of Minnewaukan, ND. Using GEE we can create a timeseries of the total amount of water in the image. The graph below shows the total amount of water in an area near Minnewaukan as determined by a machine learning algorithm I developed in my Master's thesis.
 
+![](/research/devils_lake_timeseries.png)
