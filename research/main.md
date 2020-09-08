@@ -5,6 +5,9 @@ nav_order: 2
 permalink: /research/main
 ---
 
+Research
+==========
+
 Blog Posts
 ----------
 * [9/7/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
