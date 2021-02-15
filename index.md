@@ -14,12 +14,14 @@ I recieve support from the Center for Survey Statistics and Methodology (CSSM) f
 Research Interests
 ------------------
 
-* Satellite image analysis
-* Deep learning
+* Remote sensing analysis
+* Image segmentation via deep learning
+* Algorithmic learning
 * Conformal prediction
 * Landcover classification
 * Soil and water conservation
 * Food, Energy, Water Systems (FEWS) analysis
+* Environmental sociology
 
 Education
 ---------
