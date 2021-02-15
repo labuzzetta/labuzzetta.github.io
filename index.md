@@ -16,7 +16,6 @@ Research Interests
 
 * Remote sensing analysis
 * Image segmentation via deep learning
-* Algorithmic learning
 * Conformal prediction
 * Landcover classification
 * Soil and water conservation
