@@ -14,7 +14,7 @@ I recieve support from the Center for Survey Statistics and Methodology (CSSM) f
 Research Interests
 ------------------
 
-* Remote sensing analysis
+* Remote sensing data analysis
 * Image segmentation via deep learning
 * Conformal prediction
 * Landcover classification
