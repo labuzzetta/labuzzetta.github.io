@@ -19,7 +19,6 @@ Research Interests
 * Conformal prediction
 * Landcover classification
 * Soil and water conservation
-* Food, Energy, Water Systems (FEWS) analysis
 * Environmental sociology
 
 Education
