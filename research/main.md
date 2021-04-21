@@ -16,7 +16,7 @@ Software
 
 Blog Posts
 ----------
-* [Coming soon - Example FEWS (Food, Energy, Water Systems) Course Syllabus]
+* [Coming soon - FEWS (Food, Energy, Water Systems) Course Syllabus]
 * [9/7/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
 * [9/8/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
 * [9/9/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
