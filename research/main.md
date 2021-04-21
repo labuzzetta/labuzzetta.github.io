@@ -8,8 +8,15 @@ permalink: /research/main
 Research
 ==========
 
+Software
+----------
+* [4/20/2021 - Prerelease v1.0 SWIM Classification Framework](https://github.com/labuzzetta/swim/tree/v1.0-beta)
+
+  In preparation for release of publication "A submonthly surface water classification framework via gap-fill imputation and random forest classifiers of Landsat imagery"
+
 Blog Posts
 ----------
+* [Coming soon - Example FEWS (Food, Energy, Water Systems) Course Syllabus]
 * [9/7/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
 * [9/8/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
 * [9/9/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
