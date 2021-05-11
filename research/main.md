@@ -14,7 +14,7 @@ Software
 
   Reproducible analysis and framework scripts for "A submonthly surface water classification framework via gap-fill imputation and random forest classifiers of Landsat imagery"
   
-* [2016 - People in Ecosystems / Watershed Integration](https://www.nrem.iastate.edu/pewi/pewi3/)
+* [12/--/2017 - People in Ecosystems / Watershed Integration](https://www.nrem.iastate.edu/pewi/pewi3/)
 
   Co-lead javascript programmer / developer for PEWI v3.0
 
