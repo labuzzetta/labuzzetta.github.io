@@ -10,13 +10,13 @@ Research
 
 Software
 ----------
-* [5/213/2021 - SWIM Classification Framework v1.0](https://github.com/labuzzetta/swim/tree/v1.0)
+* [5/13/2021 - SWIM Classification Framework v1.0](https://github.com/labuzzetta/swim/tree/v1.0)
 
   Reproducible analysis and framework scripts for "A submonthly surface water classification framework via gap-fill imputation and random forest classifiers of Landsat imagery"
   
-* [PEWI - People in Ecosystems / Watershed Integration](https://www.nrem.iastate.edu/pewi/pewi3/)
+* [2016 - People in Ecosystems / Watershed Integration](https://www.nrem.iastate.edu/pewi/pewi3/)
 
-  Co-lead Programmer / Developer for PEWI v3, Summer 2016
+  Co-lead javascript programmer / developer for PEWI v3.0
 
 Blog Posts
 ----------
