@@ -8,8 +8,8 @@ permalink: /insta/main
 Travels
 ==========
 
-<link href="https://labuzzetta.github.io/css/instagram-widget.css" rel="stylesheet">
-<script src="https://labuzzetta.github.io/js/instagram-widget.js"></script>
+<link href="http://labuzzetta.github.io/css/instagram-widget.css" rel="stylesheet">
+<script src="http://labuzzetta.github.io/js/instagram-widget.js"></script>
 
 <div id = "insta"
      class="instagram-widget"
@@ -19,4 +19,4 @@ Travels
      data-color="#3897f0">
 </div>
 
-Testing 3
+Testing 4
