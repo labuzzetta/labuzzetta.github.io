@@ -10,12 +10,14 @@ Travels
 
 <link href="/insta/instagram-widget.css" rel="stylesheet">
 <script src="/insta/instagram-widget.js"></script>
+<script src="/insta/render.js"></script>
 
-Testing
-
-<div class="instagram-widget"
+<div id = "insta"
+     class="instagram-widget"
      data-username="instagram"
      data-header="yes"
      data-width="80vw"
      data-color="#3897f0">
 </div>
+
+Testing 2
