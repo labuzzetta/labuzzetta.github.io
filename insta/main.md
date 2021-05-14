@@ -8,8 +8,8 @@ permalink: /insta/main
 Travels
 ==========
 
-<link href="/insta/instagram-widget.css" rel="stylesheet">
-<script src="/insta/instagram-widget.js"></script>
+<link href="/css/instagram-widget.css" rel="stylesheet">
+<script src="/js/instagram-widget.js"></script>
 <script>
   $.getScript("/insta/instagram-widget.js");
 </script>
