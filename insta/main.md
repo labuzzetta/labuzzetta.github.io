@@ -10,7 +10,9 @@ Travels
 
 <link href="/insta/instagram-widget.css" rel="stylesheet">
 <script src="/insta/instagram-widget.js"></script>
-<script src="/insta/render.js"></script>
+<script>
+  $.getScript("/insta/instagram-widget.js");
+</script>
 
 <div id = "insta"
      class="instagram-widget"
