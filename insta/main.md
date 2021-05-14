@@ -8,10 +8,10 @@ permalink: /insta/main
 Travels
 ==========
 
-<iframe width="500" height="500" frameborder="0" allowfullscreen>
 <link href="/insta/instagram-widget.css" rel="stylesheet">
 <script src="/insta/instagram-widget.js"></script>
-</iframe>
+
+Testing
 
 <div class="instagram-widget"
      data-username="instagram"
