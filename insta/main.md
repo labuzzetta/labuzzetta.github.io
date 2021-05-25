@@ -20,3 +20,8 @@ Travels
 </div>
 
 Testing 4
+
+{% include instagram.html id="CPOojA9hXqF" %}
+
+<script async src="//www.instagram.com/embed.js"></script>
+
