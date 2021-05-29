@@ -8,6 +8,8 @@ permalink: /insta/main
 Photos
 ==========
 
+{% include instagram.html id="CPdYky-B7S2" %}
+
 {% include instagram.html id="CPWmH74BU7T" %}
 
 {% include instagram.html id="CPOojA9hXqF" %}
