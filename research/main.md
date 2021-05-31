@@ -21,10 +21,10 @@ Software
 Blog Posts
 ----------
 * Coming soon - FEWS (Food, Energy, Water Systems) Course Syllabus
-* [9/7/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
-* [9/8/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
-* [9/9/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
-<!-- * [Coming soon - Data Management]() -->
+* [05/31/2021 - Data Management](http://labuzzetta.github.io/research/data)
+* [09/09/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
+* [09/08/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
+* [09/07/2020 - Visualizing Urbanization in Ames](http://labuzzetta.github.io/research/ames)
 <!-- * [Coming soon - What is the Food, Energy, Water (FEW) Nexus]() -->
 <!-- * [Coming soon - Coursera FEWs Course Review]() -->
 
