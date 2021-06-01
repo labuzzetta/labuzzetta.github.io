@@ -43,6 +43,7 @@ A formal presentation of the final paper to the class will be required. See the 
 **Course Outline** 
 
 Week | Topic | Activity / Reading(s)
+
 ---- | ----- | ---------------------
 
 1 | Introduction and course overview | Introductions, research networking, syllabus overview
