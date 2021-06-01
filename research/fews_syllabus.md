@@ -47,25 +47,17 @@ Week | Topic | Activity / Reading(s)
 2 | FEWS nexus overview | Newell, J. P., B. Goldstein, and A. Foster. 2019. A 40-year review of food-energy-water nexus literature and its application to the urban scale. Environmental Research Letters 14(7): 1-18.
 3 | Individual paper review 1 | Each student chooses 1 paper from a subset of those referenced in Newell et al. (2019) to summarize and present. Presentations will be given during this class. See Appendix A for a list of a papers to choose from.
 4 | Individual paper review 2 | Choose a second paper of those presented by other students during the previous class and read to prepare for discussion of FEWS nexus in this class. After this meeting students should identify a final paper topic.
-5 | Sociology 1: Agricultural treadmill | Norgaard, K. 2017. The sociological imagination in a time of climate change. Global and Planetary Change. 163: 171-176.
-
-Gould, K., D. Pellow, and A. Schaiberg. 2004. Interrogating the treadmill of production: everything you wanted to know about the treadmill but were afraid to ask. Organization and Environment 17(3): 296-316.
-6 | Sociology 2: Ecological modernization | Spaargaren, G. and A. Mol. 1992. Sociology, environment, and modernity: Ecological modernization as a theory of social change. Society and Natural Resources. 5: 323-344.
-
-Vail, B. 2014. Ecological modernization at work? Environmental policy reform in Sweden at the turn of the century. (Chapter 4). In Environmental Sociology: From Analysis to Action.
+5 | Sociology 1: Agricultural treadmill | Norgaard, K. 2017. The sociological imagination in a time of climate change. Global and Planetary Change. 163: 171-176. **and** Gould, K., D. Pellow, and A. Schaiberg. 2004. Interrogating the treadmill of production: everything you wanted to know about the treadmill but were afraid to ask. Organization and Environment 17(3): 296-316.
+6 | Sociology 2: Ecological modernization | Spaargaren, G. and A. Mol. 1992. Sociology, environment, and modernity: Ecological modernization as a theory of social change. Society and Natural Resources. 5: 323-344. **and** Vail, B. 2014. Ecological modernization at work? Environmental policy reform in Sweden at the turn of the century. (Chapter 4). In Environmental Sociology: From Analysis to Action.
 7 | Political economy: Neoliberalism | McCarthy, J. and S. Prudham. 2004. Neoliberal nature and the nature of neoliberalism. Geoforum 35: 275-283.
 8 | FEWS Models 1 | Giampietro, M. et al. 2013. An innovative accounting framework for the food-energy-water nexus: Application of the MuSIASEM approach to three case studies. Rome: Food and Agriculture Association of the United Nations.
 9 | FEWS Models 2 | Rasul, G. and B. Sharma. 2016. The nexus approach to water-energy-food security: an option for adaptation to climate change. Clim. Policy, 16, 682-702.
-10 | Drawing conclusions and crafting policy | Vogt, C., M. Zimmerman, and K. Brekke. 2014. Operationalizing the Urban NEXUS Report. Bonn: Deutsche Gesellschaft für Internationale Zusammenarbeit.
-
-Karlberg, L et al. 2015. Tackling complexity: understanding the food-energy-environment nexus in Ethopia's Lake Tana sub-basin. Water Altern. 8, 710-734.
+10 | Drawing conclusions and crafting policy | Vogt, C., M. Zimmerman, and K. Brekke. 2014. Operationalizing the Urban NEXUS Report. Bonn: Deutsche Gesellschaft für Internationale Zusammenarbeit. **and** Karlberg, L et al. 2015. Tackling complexity: understanding the food-energy-environment nexus in Ethopia's Lake Tana sub-basin. Water Altern. 8, 710-734.
 11 | Case study 1 | Guillaume, J., M. Kummu, S. Eisner, and O. Varis. 2015. Transferrable principles for managing the nexus: lessons from historical global water modelling of central Asia. Water, 7, 200-223.
 12 | Case study 2 | King, C.W. 2014. A systems approach for investigating water, energy, and food scenarios in East-Central Maui. The University of Texas at Austin. Report.
 13 | FEWS critical analysis | Leck, H., D. Conway, M. Bradshaw, and J. Rees. 2015. Tracing the Water-Energy-Food Nexus: Description, Theory and Practice. Geography Compass. 9/8 (2015): 445-460.
-14 | Midwest FEWS 1 | Stone, J. et al. 2015. NSF FEW workshop on a sustainable rural framework for the upper great plains. NSF.
-
-ISU. 2017. NRT-INFEWS: The DataFEWSion traineeship program for innovations at the nexus of food production, renewable energy and water quality. NSF.
-15 | Midwest FEWS 2 or Presentations | Choose your own paper related to sustainability in the Midwest. How can the issue be approached with FEWS? Brainstorming session for new research projects. or Additional week of presentations if needed
+14 | Midwest FEWS 1 | Stone, J. et al. 2015. NSF FEW workshop on a sustainable rural framework for the upper great plains. NSF. **and** ISU. 2017. NRT-INFEWS: The DataFEWSion traineeship program for innovations at the nexus of food production, renewable energy and water quality. NSF.
+15 | Midwest FEWS 2 or Presentations | Choose your own paper related to sustainability in the Midwest. How can the issue be approached with FEWS? Brainstorming session for new research projects **or** Additional week of presentations if needed
 16 | Presentations | Final presentation due
 17 | Finals Week | Final paper due
 
