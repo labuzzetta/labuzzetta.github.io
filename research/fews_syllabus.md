@@ -13,6 +13,7 @@ While the 'FEWS Nexus' has existed as a buzzword for several decades, it has gai
 ### FEWS 690: Introduction to the FEWS Nexus
 
 **Course Description**
+
 This course is designed to provide an introduction to the Food, Energy, Water Systems (FEWS) nexus. Students will learn to understand the FEWS nexus as a modeling framework for analyzing the complex tradeoffs between food, energy, and water at multiple spatial and temporal scales in order to develop policies that better address the needs of many stakeholders. The FEWS nexus is a broad field of research, centered in sustainability and environmental science but strongly influenced by agronomy, ecology, engineering, natural resources management, political science, sociology, and statistics. Key theories and perspectives from these disciplines will be introduced to help us think about the complex nature of the FEWS nexus. This course will build a foundation for approaching such research in the context of the agricultural Midwest United States.
 
 **Learning outcomes**
@@ -23,6 +24,7 @@ This course is designed to provide an introduction to the Food, Energy, Water Sy
 5. Effectively communicate and apply FEWS nexus approaches to understanding sustainability in the agricultural Midwest.
 
 **Assignments and Evaluation**
+
 The course is designed primarily to promote discussion amongst students and build community through critical thinking. Additionally, a final project helps to integrate the FEWS nexus into each student's individual research.
 
 1. Class Attendance and Participation (20%)
@@ -43,9 +45,6 @@ A formal presentation of the final paper to the class will be required. See the 
 **Course Outline** 
 
 Week | Topic | Activity / Reading(s)
-
----- | ----- | ---------------------
-
 1 | Introduction and course overview | Introductions, research networking, syllabus overview
 2 | FEWS nexus overview | Newell, J. P., B. Goldstein, and A. Foster. 2019. A 40-year review of food-energy-water nexus literature and its application to the urban scale. Environmental Research Letters 14(7): 1-18.
 3 | Individual paper review 1 | Each student chooses 1 paper from a subset of those referenced in Newell et al. (2019) to summarize and present. Presentations will be given during this class. See Appendix A for a list of a papers to choose from.
@@ -65,9 +64,11 @@ Week | Topic | Activity / Reading(s)
 17 | Finals Week | Final paper due
 
 **Acknowledgements**
+
 Thank you to Dr. Carmen Bain for her course SOC 549: Sociology of the Environment. The structure and pedagogy of this course is strongly inspired by SOC 549.
 
 **Appendix A - Subset of References from Newell et al. (2019)**
+
 Al-Ansari, T., A. Korre, Z. Nie, and N. Shah. 2015. Development of a life cycle assessment tool for the assessment of food productionsystems within the energy, water and food nexus. Sustain. Prod. Consum., 2, 52-66.
 
 Bazilian, M. et al. 2011. Considering the energy, water and food nexus: towards an integrated modelling approach. Energy Policy, 39, 896-906.
