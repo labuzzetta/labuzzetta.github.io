@@ -43,6 +43,7 @@ A formal presentation of the final paper to the class will be required. See the 
 **Course Outline** 
 Week | Topic | Activity / Reading(s)
 ---- | ----- | ---------------------
+
 1 | Introduction and course overview | Introductions, research networking, syllabus overview
 2 | FEWS nexus overview | Newell, J. P., B. Goldstein, and A. Foster. 2019. A 40-year review of food-energy-water nexus literature and its application to the urban scale. Environmental Research Letters 14(7): 1-18.
 3 | Individual paper review 1 | Each student chooses 1 paper from a subset of those referenced in Newell et al. (2019) to summarize and present. Presentations will be given during this class. See Appendix A for a list of a papers to choose from.
