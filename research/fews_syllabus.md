@@ -41,6 +41,7 @@ The final paper is meant to be a targeted and tangible outcome of this class to 
 A formal presentation of the final paper to the class will be required. See the final presentation rubric for further details on assessment.
 
 **Course Outline** 
+
 Week | Topic | Activity / Reading(s)
 ---- | ----- | ---------------------
 
