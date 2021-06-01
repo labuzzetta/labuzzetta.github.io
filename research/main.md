@@ -20,7 +20,7 @@ Software
 
 Blog Posts
 ----------
-* Coming soon - FEWS (Food, Energy, Water Systems) Course Syllabus
+* [06/01/2021 - FEWS (Food, Energy, Water Systems) Course Syllabus](http://labuzzetta.github.io/research/fews_syllabus)
 * [05/31/2021 - Data Management](http://labuzzetta.github.io/research/data)
 * [09/09/2020 - A Devilish Flood](http://labuzzetta.github.io/research/devils_lake)
 * [09/08/2020 - Disappearing Act: The Aral Sea](http://labuzzetta.github.io/research/aral_sea)
