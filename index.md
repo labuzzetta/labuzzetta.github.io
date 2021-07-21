@@ -25,6 +25,7 @@ Education
 ---------
 
 * **PhD Statistics and Environmental Science**, Iowa State Uni. '22
+* **Certificate, Data-Driven Food Energy and Water Decision Making**, Iowa State Uni. '21
 * **MS Statistics**, Iowa State Uni. '19
 * **BS Mathematics**, Iowa State Uni. '17
 
