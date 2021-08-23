@@ -38,6 +38,11 @@ Publications
   
   Labuzzetta, C., et al. 2016. Complementary feature selection from alternative splicing events and gene expression for phenotype prediction. Bioinformatics 32(17):i421-i429.
 
+Awards
+----------
+* Fall 2021. Vince Sposito Computing Excellence Award (Outstanding service in Statistical Computing)
+
+
 Thesis + Dissertation
 ----------
 * [Fall 2019 - Master's Thesis](https://lib.dr.iastate.edu/creativecomponents/456/)
