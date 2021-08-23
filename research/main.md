@@ -40,7 +40,7 @@ Publications
 
 Awards
 ----------
-* Fall 2021. Vince Sposito Computing Excellence Award (Outstanding service in Statistical Computing)
+* Vince Sposito Computing Excellence Award (Outstanding service in Statistical Computing). Fall 2021.
 
 
 Thesis + Dissertation
