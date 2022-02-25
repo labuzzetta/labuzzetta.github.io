@@ -7,6 +7,7 @@ permalink: /insta/main
 
 Photos
 ==========
+{% include instagram.html id="CZUVN0fszTI" %}
 
 {% include instagram.html id="CPdYky-B7S2" %}
 
